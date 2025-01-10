@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f3662b2e53b656189c3051a0a0490e87" label="Snack List" max_length="40" name="x_1527298_snackzon_snack_list" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Snack Name" max_length="40" name="snack_name" type="string"/>
+        <element choice="1" label="Snack Category" max_length="40" name="snack_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Crunchy" sequence="4" value="crunchy"/>
+                <element inactive_on_update="false" label="Cheesy" sequence="5" value="cheesy"/>
+                <element inactive_on_update="false" label="Sweet" sequence="0" value="sweet"/>
+                <element inactive_on_update="false" label="Savory" sequence="1" value="savory"/>
+                <element inactive_on_update="false" label="Tangy" sequence="2" value="tangy"/>
+                <element inactive_on_update="false" label="Salty" sequence="6" value="salty"/>
+                <element inactive_on_update="false" label="Spicy" sequence="3" value="spicy"/>
+                <element inactive_on_update="false" label="Baked" sequence="7" value="baked"/>
+            </choice>
+        </element>
+        <element display="true" label="Snack Description" max_length="40" name="snack_description" type="string"/>
+    </element>
+</database>

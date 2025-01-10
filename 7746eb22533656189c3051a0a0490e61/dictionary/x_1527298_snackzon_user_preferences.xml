@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e3aaab6253f656189c3051a0a0490ec3" label="User Preferences" max_length="40" name="x_1527298_snackzon_user_preferences" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Snack Type Preference" max_length="40" name="snack_type_preference" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sweet" sequence="1" value="sweet"/>
+                <element inactive_on_update="false" label="Spicy" sequence="0" value="spicy"/>
+                <element inactive_on_update="false" label="Savory" sequence="2" value="savory"/>
+            </choice>
+        </element>
+        <element display="true" label="Favorite Snack" max_length="40" name="favorite_snack" reference="x_1527298_snackzon_snack_list" type="reference"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

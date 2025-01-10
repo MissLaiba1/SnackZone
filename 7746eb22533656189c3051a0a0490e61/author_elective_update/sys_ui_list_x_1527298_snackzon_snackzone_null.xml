@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1527298_snackzon_snackzone" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_1527298_snackzon_snackzone" element="NULL" name="x_1527298_snackzon_snackzone" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d44fc9fb53be96109c3051a0a0490ee5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-06 14:54:59</sys_created_on>
+            <sys_id>d04fc9fb53be96109c3051a0a0490ee7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-06 14:54:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1527298_snackzon_snackzone</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-06 14:54:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d44fc9fb53be96109c3051a0a0490ee5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1527298_snackzon_snackzone</sys_name>
+            <sys_package display_value="SnackZone" source="x_1527298_snackzon">7746eb22533656189c3051a0a0490e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SnackZone">7746eb22533656189c3051a0a0490e61</sys_scope>
+            <sys_update_name>sys_ui_list_x_1527298_snackzon_snackzone_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-06 14:54:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SnackZone">7746eb22533656189c3051a0a0490e61</application>
+        <file_path/>
+        <instance_id>9ad17218ffbbc618c80bf8e4fc4fd9af</instance_id>
+        <instance_name>dev284092</instance_name>
+        <name>sys_ui_list_x_1527298_snackzon_snackzone_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1527298_snackzon_snackzone" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_1527298_snackzon_snackzone" element="NULL" name="x_1527298_snackzon_snackzone" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d44fc9fb53be96109c3051a0a0490ee5</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-06 14:54:59</sys_created_on><sys_id>d04fc9fb53be96109c3051a0a0490ee7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-06 14:54:59</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1527298_snackzon_snackzone</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-06 14:54:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d44fc9fb53be96109c3051a0a0490ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1527298_snackzon_snackzone</sys_name><sys_package display_value="SnackZone" source="x_1527298_snackzon">7746eb22533656189c3051a0a0490e61</sys_package><sys_policy/><sys_scope display_value="SnackZone">7746eb22533656189c3051a0a0490e61</sys_scope><sys_update_name>sys_ui_list_x_1527298_snackzon_snackzone_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-06 14:54:59</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1317582608</payload_hash>
+        <record_name>SnackZone</record_name>
+        <reverted_from/>
+        <source>fb46eb22533656189c3051a0a0490e65</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 14:54:59</sys_created_on>
+        <sys_id>944fc9fb53be96109c3051a0a0490ee9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1943c1cab1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 14:54:59</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>144fc9fbd3be9610b2e6a19205c5ebe9</update_guid>
+        <update_guid_history>144fc9fbd3be9610b2e6a19205c5ebe9:1317582608</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 14:55:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>354336e3beb947e78e3d35d8b9df8df9</sys_id>
+        <sys_metadata>d44fc9fb53be96109c3051a0a0490ee5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1527298_snackzon_snackzone</sys_name>
+        <sys_package display_value="SnackZone" source="x_1527298_snackzon">7746eb22533656189c3051a0a0490e61</sys_package>
+        <sys_parent display_value="">0f2e45f753be96109c3051a0a0490e49</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SnackZone">7746eb22533656189c3051a0a0490e61</sys_scope>
+        <sys_scope_delete display_value="">1ba21d0aa9c341e28709f128ecf9f091</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1527298_snackzon_snackzone_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1527298_snackzon_snackzone_null">944fc9fb53be96109c3051a0a0490ee9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 14:55:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Snack Suggestions</name>
+        <order/>
+        <roles>x_1527298_snackzon.snack_suggestions_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 05:07:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>921ceb2653f656189c3051a0a0490e94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Snack Suggestions</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SnackZone" source="x_1527298_snackzon">7746eb22533656189c3051a0a0490e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SnackZone">7746eb22533656189c3051a0a0490e61</sys_scope>
+        <sys_update_name>sys_ui_application_921ceb2653f656189c3051a0a0490e94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 05:07:51</sys_updated_on>
+    </sys_ui_application>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d80ce7e253f656189c3051a0a0490e9d" label="Snack Suggestions" max_length="40" name="x_1527298_snackzon_snack_suggestions" type="collection">
+        <element label="Suggested Snack" max_length="32" name="suggested_snack" reference="x_1527298_snackzon_snack_list" type="reference"/>
+        <element label="User" max_length="32" name="user" reference="x_1527298_snackzon_user_preferences" type="reference"/>
+        <element label="Suggested Reason" max_length="40" name="suggested_reason" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="suggested_snack"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
